@@ -50,3 +50,4 @@ for symbol in s:
 print(min(symbols), max(symbols), sep=', ')
 print('ХВАТИТ' if len(symbols) <= 32 else 'НЕ ХВАТИТ')
 
+
